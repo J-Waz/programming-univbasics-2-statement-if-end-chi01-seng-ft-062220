@@ -26,7 +26,7 @@
 
 current_second = t.to_i
 
-if current_second % 2 = 0
+if current_second = number.even?
   puts "Even!"
 else
   puts "Odd!"
