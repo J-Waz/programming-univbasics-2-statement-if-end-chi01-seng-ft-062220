@@ -24,10 +24,9 @@
 
 #SOLUTION!
 
-current_second = Time.now
-current_second.to_i 
+current_second = Time.now.t
 
-if (current_second % 2) = 0
+if current_second % 2 = 0
   puts "Even!"
 else
   puts "Odd!"
