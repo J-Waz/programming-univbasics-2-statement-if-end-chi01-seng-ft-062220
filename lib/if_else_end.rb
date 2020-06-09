@@ -26,7 +26,7 @@
 
 current_second = Time.to_s
 
-if current_second.even?
+if current_second
   puts "Even!"
 else
   puts "Odd!"
