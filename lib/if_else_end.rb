@@ -24,3 +24,10 @@
 
 #SOLUTION!
 
+current_second
+
+if true 
+  
+else
+  
+end
