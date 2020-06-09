@@ -24,7 +24,7 @@
 
 #SOLUTION!
 
-current_second = Time.to_i
+current_second = Time
 
 if current_second = number.even?
   puts "Even!"
