@@ -26,10 +26,11 @@
 
 current_second = Time.now
 current_second.to_i 
-puts current_second
 
-#if current_second.even?
-  #puts "Even!"
-#else
-  #puts "Odd!"
-#end
+if current_second%2 = 0
+  puts "Even!"
+else
+  puts "Odd!"
+end
+
+current_second
