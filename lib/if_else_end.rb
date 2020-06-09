@@ -33,4 +33,4 @@ else
   puts "Odd!"
 end
 
-current_second
+puts current_second
