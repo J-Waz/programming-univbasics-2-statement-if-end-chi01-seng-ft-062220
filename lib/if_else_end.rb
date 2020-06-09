@@ -24,7 +24,7 @@
 
 #SOLUTION!
 
-current_second = Time.now.t
+current_second = T.
 
 if current_second % 2 = 0
   puts "Even!"
