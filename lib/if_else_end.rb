@@ -24,7 +24,7 @@
 
 #SOLUTION!
 
-current_second = T.
+current_second = t.to_i
 
 if current_second % 2 = 0
   puts "Even!"
