@@ -26,6 +26,7 @@
 
 current_second = Time.now
 current_second.to_i 
+puts current_second
 
 #if current_second.even?
   #puts "Even!"
